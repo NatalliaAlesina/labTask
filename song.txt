@@ -1,4 +1,4 @@
-Loro non sanno di che parlo
+﻿Loro non sanno di che parlo
 Voi siete sporchi, fra', di fango
 Giallo di siga fra le dita
 Io con la siga camminando
@@ -56,3 +56,6 @@ E tu sei fuori di testa ma diversa da loro
 Siamo fuori di testa ma diversi da loro
 Siamo fuori di testa ma diversi da loro, ah
 Noi siamo diversi da loro
+
+
+first content
